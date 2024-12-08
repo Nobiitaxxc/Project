@@ -32,7 +32,7 @@ switch ($today) {
 }
 
 
-echo "Date to day: $day  ";
+echo "$day  ";
 echo "$currentDate";
 
 
